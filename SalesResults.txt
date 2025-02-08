@@ -1,0 +1,5 @@
+Sales File 1: $2481.86
+Sales File 2: $166568.23
+Sales File 3: $165235.37
+Total Combined Sales: $334285.46
+Execution Time: 0.0021 seconds

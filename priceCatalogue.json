@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Brown eggs",
+        "price": 28.1
+    },
+    {
+        "title": "Sweet fresh stawberry",
+        "price": 29.45
+    },
+    {
+        "title": "Asparagus",
+        "price": 18.95
+    },
+    {
+        "title": "Green smoothie",
+        "price": 17.68
+    },
+    {
+        "title": "Raw legums",
+        "price": 17.11
+    },
+    {
+        "title": "Baking cake",
+        "price": 11.14
+    },
+    {
+        "title": "Pesto with basil",
+        "price": 18.19
+    },
+    {
+        "title": "Hazelnut in black ceramic bowl",
+        "price": 27.35
+    },
+    {
+        "title": "Fresh stawberry",
+        "price": 28.59
+    },
+    {
+        "title": "Lemon and salt",
+        "price": 15.79
+    },
+    {
+        "title": "Homemade bread",
+        "price": 17.48
+    },
+    {
+        "title": "Legums",
+        "price": 14.77
+    },
+    {
+        "title": "Fresh tomato",
+        "price": 16.3
+    },
+    {
+        "title": "Healthy breakfast",
+        "price": 13.02
+    },
+    {
+        "title": "Green beans",
+        "price": 28.79
+    },
+    {
+        "title": "Baked stuffed portabello mushrooms",
+        "price": 20.31
+    },
+    {
+        "title": "Strawberry jelly",
+        "price": 14.18
+    },
+    {
+        "title": "Pears juice",
+        "price": 19.49
+    },
+    {
+        "title": "Fresh pears",
+        "price": 15.12
+    },
+    {
+        "title": "Caprese salad",
+        "price": 16.76
+    },
+    {
+        "title": "Oranges",
+        "price": 21.48
+    },
+    {
+        "title": "Vegan food",
+        "price": 29.66
+    },
+    {
+        "title": "Breakfast with muesli",
+        "price": 22.7
+    },
+    {
+        "title": "Honey",
+        "price": 17.01
+    },
+    {
+        "title": "Breakfast with cottage",
+        "price": 14.05
+    },
+    {
+        "title": "Strawberry smoothie",
+        "price": 28.86
+    },
+    {
+        "title": "Strawberry and mint",
+        "price": 26.21
+    },
+    {
+        "title": "Ricotta",
+        "price": 27.81
+    },
+    {
+        "title": "Cuban sandwiche",
+        "price": 18.5
+    },
+    {
+        "title": "Granola",
+        "price": 29.97
+    },
+    {
+        "title": "Smoothie with chia seeds",
+        "price": 25.26
+    },
+    {
+        "title": "Yogurt",
+        "price": 27.61
+    },
+    {
+        "title": "Sandwich with salad",
+        "price": 22.48
+    },
+    {
+        "title": "Cherry",
+        "price": 14.35
+    },
+    {
+        "title": "Raw asparagus",
+        "price": 22.97
+    },
+    {
+        "title": "Corn",
+        "price": 13.55
+    },
+    {
+        "title": "Vegan",
+        "price": 28.96
+    },
+    {
+        "title": "Fresh blueberries",
+        "price": 21.01
+    },
+    {
+        "title": "Smashed avocado",
+        "price": 25.88
+    },
+    {
+        "title": "Italian ciabatta",
+        "price": 15.18
+    },
+    {
+        "title": "Rustic breakfast",
+        "price": 21.32
+    },
+    {
+        "title": "Sliced lemons",
+        "price": 27.14
+    },
+    {
+        "title": "Plums",
+        "price": 19.18
+    },
+    {
+        "title": "French fries",
+        "price": 18.32
+    },
+    {
+        "title": "Strawberries",
+        "price": 15.13
+    },
+    {
+        "title": "Ground beef meat burger",
+        "price": 11.73
+    },
+    {
+        "title": "Tomatoes",
+        "price": 26.03
+    },
+    {
+        "title": "Basil",
+        "price": 15.19
+    },
+    {
+        "title": "Fruits bouquet",
+        "price": 18.18
+    },
+    {
+        "title": "Peaches on branch",
+        "price": 25.62
+    }
+]
